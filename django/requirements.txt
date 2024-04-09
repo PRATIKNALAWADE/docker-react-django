@@ -1,0 +1,9 @@
+asgiref~=3.5  # Consider compatibility with Django version
+coverage~=6.5 # Maintain compatibility and new features
+Django~=4.2  # Major version upgrade for potential improvements, check breaking changes
+django-cors-headers~=3.13  # Align with potential Django version changes
+djangorestframework~=3.14  # Align with potential Django version changes
+pytz~=2024.1  # Assuming newer time zone data might be beneficial
+sqlparse~=0.4.2  # Minor update, likely safe
+gunicorn ==20.1.0
+django-cors-headers~=3.13
